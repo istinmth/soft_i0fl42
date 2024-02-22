@@ -1,0 +1,17 @@
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\bin\Debug\net7.0-windows\Pascal.exe
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\bin\Debug\net7.0-windows\Pascal.deps.json
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\bin\Debug\net7.0-windows\Pascal.runtimeconfig.json
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\bin\Debug\net7.0-windows\Pascal.dll
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\bin\Debug\net7.0-windows\Pascal.pdb
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\obj\Debug\net7.0-windows\Pascal.csproj.AssemblyReference.cache
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\obj\Debug\net7.0-windows\Pascal.Form1.resources
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\obj\Debug\net7.0-windows\Pascal.csproj.GenerateResource.cache
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\obj\Debug\net7.0-windows\Pascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\obj\Debug\net7.0-windows\Pascal.AssemblyInfoInputs.cache
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\obj\Debug\net7.0-windows\Pascal.AssemblyInfo.cs
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\obj\Debug\net7.0-windows\Pascal.csproj.CoreCompileInputs.cache
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\obj\Debug\net7.0-windows\Pascal.dll
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\obj\Debug\net7.0-windows\refint\Pascal.dll
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\obj\Debug\net7.0-windows\Pascal.pdb
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\obj\Debug\net7.0-windows\Pascal.genruntimeconfig.cache
+C:\Users\i0fl42\source\repos\soft_i0fl42\Pascal\obj\Debug\net7.0-windows\ref\Pascal.dll
