@@ -1,0 +1,17 @@
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\bin\Debug\net7.0-windows\Gombika.exe
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\bin\Debug\net7.0-windows\Gombika.deps.json
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\bin\Debug\net7.0-windows\Gombika.runtimeconfig.json
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\bin\Debug\net7.0-windows\Gombika.dll
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\bin\Debug\net7.0-windows\Gombika.pdb
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\obj\Debug\net7.0-windows\Gombika.csproj.AssemblyReference.cache
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\obj\Debug\net7.0-windows\Gombika.Form1.resources
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\obj\Debug\net7.0-windows\Gombika.csproj.GenerateResource.cache
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\obj\Debug\net7.0-windows\Gombika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\obj\Debug\net7.0-windows\Gombika.AssemblyInfoInputs.cache
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\obj\Debug\net7.0-windows\Gombika.AssemblyInfo.cs
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\obj\Debug\net7.0-windows\Gombika.csproj.CoreCompileInputs.cache
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\obj\Debug\net7.0-windows\Gombika.dll
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\obj\Debug\net7.0-windows\refint\Gombika.dll
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\obj\Debug\net7.0-windows\Gombika.pdb
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\obj\Debug\net7.0-windows\Gombika.genruntimeconfig.cache
+C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Gombika\obj\Debug\net7.0-windows\ref\Gombika.dll

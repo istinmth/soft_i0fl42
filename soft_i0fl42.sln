@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szorzotabla", "Szorzotabla\Szorzotabla.csproj", "{33404C14-17CC-4307-9C8C-0DC3E8BCA08F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Szorzotabla", "Szorzotabla\Szorzotabla.csproj", "{33404C14-17CC-4307-9C8C-0DC3E8BCA08F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{9542BCD8-F255-4F39-85BD-B4FF5336BBF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{9542BCD8-F255-4F39-85BD-B4FF5336BBF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal", "Pascal\Pascal.csproj", "{360DCC17-E25D-45A8-94D4-8ACC19EF072B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal", "Pascal\Pascal.csproj", "{360DCC17-E25D-45A8-94D4-8ACC19EF072B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gombika", "Gombika\Gombika.csproj", "{8F7EF6DF-2E8A-4B9E-8B2C-0570F63EF2DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{360DCC17-E25D-45A8-94D4-8ACC19EF072B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{360DCC17-E25D-45A8-94D4-8ACC19EF072B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{360DCC17-E25D-45A8-94D4-8ACC19EF072B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7EF6DF-2E8A-4B9E-8B2C-0570F63EF2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7EF6DF-2E8A-4B9E-8B2C-0570F63EF2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7EF6DF-2E8A-4B9E-8B2C-0570F63EF2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7EF6DF-2E8A-4B9E-8B2C-0570F63EF2DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\i0fl42\\source\\repos\\soft_i0fl42\\Szorzotabla\\Szorzotabla.csproj": {}
+    "C:\\Users\\i0fl42\\Source\\Repos\\istinmth\\soft_i0fl42\\Szorzotabla\\Szorzotabla.csproj": {}
   },
   "projects": {
-    "C:\\Users\\i0fl42\\source\\repos\\soft_i0fl42\\Szorzotabla\\Szorzotabla.csproj": {
+    "C:\\Users\\i0fl42\\Source\\Repos\\istinmth\\soft_i0fl42\\Szorzotabla\\Szorzotabla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i0fl42\\source\\repos\\soft_i0fl42\\Szorzotabla\\Szorzotabla.csproj",
+        "projectUniqueName": "C:\\Users\\i0fl42\\Source\\Repos\\istinmth\\soft_i0fl42\\Szorzotabla\\Szorzotabla.csproj",
         "projectName": "Szorzotabla",
-        "projectPath": "C:\\Users\\i0fl42\\source\\repos\\soft_i0fl42\\Szorzotabla\\Szorzotabla.csproj",
+        "projectPath": "C:\\Users\\i0fl42\\Source\\Repos\\istinmth\\soft_i0fl42\\Szorzotabla\\Szorzotabla.csproj",
         "packagesPath": "C:\\Users\\i0fl42\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\i0fl42\\source\\repos\\soft_i0fl42\\Szorzotabla\\obj\\",
+        "outputPath": "C:\\Users\\i0fl42\\Source\\Repos\\istinmth\\soft_i0fl42\\Szorzotabla\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\i0fl42\\AppData\\Roaming\\NuGet\\NuGet.Config",
