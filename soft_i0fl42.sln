@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal", "Pascal\Pascal.csproj", "{360DCC17-E25D-45A8-94D4-8ACC19EF072B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gombika", "Gombika\Gombika.csproj", "{8F7EF6DF-2E8A-4B9E-8B2C-0570F63EF2DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gombika", "Gombika\Gombika.csproj", "{8F7EF6DF-2E8A-4B9E-8B2C-0570F63EF2DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomGomb", "RandomGomb\RandomGomb.csproj", "{69F705B8-7DB6-4EFD-B153-B4EF06EAABC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaromszogGombok", "HaromszogGombok\HaromszogGombok.csproj", "{EDEFAFF4-68AB-44E1-810C-00EDC65E18C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{8F7EF6DF-2E8A-4B9E-8B2C-0570F63EF2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F7EF6DF-2E8A-4B9E-8B2C-0570F63EF2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F7EF6DF-2E8A-4B9E-8B2C-0570F63EF2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F705B8-7DB6-4EFD-B153-B4EF06EAABC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F705B8-7DB6-4EFD-B153-B4EF06EAABC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F705B8-7DB6-4EFD-B153-B4EF06EAABC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F705B8-7DB6-4EFD-B153-B4EF06EAABC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDEFAFF4-68AB-44E1-810C-00EDC65E18C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEFAFF4-68AB-44E1-810C-00EDC65E18C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEFAFF4-68AB-44E1-810C-00EDC65E18C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEFAFF4-68AB-44E1-810C-00EDC65E18C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

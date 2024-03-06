@@ -1,0 +1,17 @@
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\obj\Debug\net7.0-windows\RandomGomb.Form1.resources
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\obj\Debug\net7.0-windows\RandomGomb.csproj.GenerateResource.cache
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\obj\Debug\net7.0-windows\RandomGomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\obj\Debug\net7.0-windows\RandomGomb.AssemblyInfoInputs.cache
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\obj\Debug\net7.0-windows\RandomGomb.AssemblyInfo.cs
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\obj\Debug\net7.0-windows\RandomGomb.csproj.CoreCompileInputs.cache
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\obj\Debug\net7.0-windows\RandomGomb.sourcelink.json
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\bin\Debug\net7.0-windows\RandomGomb.exe
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\bin\Debug\net7.0-windows\RandomGomb.deps.json
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\bin\Debug\net7.0-windows\RandomGomb.runtimeconfig.json
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\bin\Debug\net7.0-windows\RandomGomb.dll
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\bin\Debug\net7.0-windows\RandomGomb.pdb
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\obj\Debug\net7.0-windows\RandomGomb.dll
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\obj\Debug\net7.0-windows\refint\RandomGomb.dll
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\obj\Debug\net7.0-windows\RandomGomb.pdb
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\obj\Debug\net7.0-windows\RandomGomb.genruntimeconfig.cache
+C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\RandomGomb\obj\Debug\net7.0-windows\ref\RandomGomb.dll
