@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nemis\\Source\\Repos\\istinmth\\soft_i0fl42\\Pascal\\Pascal.csproj": {}
+    "C:\\Users\\i0fl42\\Source\\Repos\\istinmth\\soft_i0fl42\\Pascal\\Pascal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nemis\\Source\\Repos\\istinmth\\soft_i0fl42\\Pascal\\Pascal.csproj": {
+    "C:\\Users\\i0fl42\\Source\\Repos\\istinmth\\soft_i0fl42\\Pascal\\Pascal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nemis\\Source\\Repos\\istinmth\\soft_i0fl42\\Pascal\\Pascal.csproj",
+        "projectUniqueName": "C:\\Users\\i0fl42\\Source\\Repos\\istinmth\\soft_i0fl42\\Pascal\\Pascal.csproj",
         "projectName": "Pascal",
-        "projectPath": "C:\\Users\\nemis\\Source\\Repos\\istinmth\\soft_i0fl42\\Pascal\\Pascal.csproj",
-        "packagesPath": "C:\\Users\\nemis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nemis\\Source\\Repos\\istinmth\\soft_i0fl42\\Pascal\\obj\\",
+        "projectPath": "C:\\Users\\i0fl42\\Source\\Repos\\istinmth\\soft_i0fl42\\Pascal\\Pascal.csproj",
+        "packagesPath": "C:\\Users\\i0fl42\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i0fl42\\Source\\Repos\\istinmth\\soft_i0fl42\\Pascal\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\nemis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\i0fl42\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
