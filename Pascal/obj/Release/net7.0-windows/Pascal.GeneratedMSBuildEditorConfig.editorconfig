@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Pascal
-build_property.ProjectDir = C:\Users\i0fl42\Source\Repos\istinmth\soft_i0fl42\Pascal\
+build_property.ProjectDir = C:\Users\nemis\Source\Repos\istinmth\soft_i0fl42\Pascal\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
