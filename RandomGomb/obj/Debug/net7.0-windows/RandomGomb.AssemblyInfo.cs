@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RandomGomb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa63e9430dfc9f2bd6b223ddd44670e3ce3d84f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb24525fe1d61fc6f23d1ec2523103e1359ebb04")]
 [assembly: System.Reflection.AssemblyProductAttribute("RandomGomb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RandomGomb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
